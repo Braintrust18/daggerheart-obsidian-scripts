@@ -5,6 +5,8 @@ Scripts to assist in session prep in Obsidian for Daggerheart table top roll pla
 Daggerheart is a table top roll playing game from Darrington Press.
 #### Daggerheart trademarks
 “Darrington Press™ and the Darrington Press authorized work logo are trademarks of Critical Role, LLC and used with permission.
+![compatible_with_DH_logos-10](https://github.com/user-attachments/assets/63648995-a68d-4ebd-9132-adb8bcbdee41)
+
 #### Daggerheart license
 This product includes materials from the Daggerheart System Reference Document 1.0, ©Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.
 ### Obsidian
