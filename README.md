@@ -28,7 +28,7 @@ I have included two simple Templater templates that invoke these scripts. The Te
  - HP Stress Template ITS.md
 
 ### HP Stress Template
-This Templater template will prompt the user for an adversaries HP and Stress. Then it will build a markdown table to track 6 adversaries. The following is an example:
+This Templater template will prompt the user for an adversaries HP and Stress. Then it will build a markdown table to track 6 adversaries. The following is an example of the markdown in produces:
 
 | #   | HP(11)        | S(6)    | Status  | Name   |
 | --- | ------------- | ------- | ------- | ------ |
@@ -46,7 +46,7 @@ This looks like the following in Obsidian:
 ![HP Stress Template Example](Example1.PNG)
  
 ### HP Stress Template ITS
-This Templater template requires the advanced checkbox feature of the ITS theme. It produces markdown that is less readable without the theme. This markdown was shared by Crit Hit The Giant on youtube in his video "Using Owlbear Rodeo To Run Daggerheart." They stated they got the code from somewhere else to use for Dnd spell slots. The template will ask for the Adversary name, the number of adversaries, HP, and Stress. The following is what is an example of the markdown in produces:
+This Templater template requires the advanced checkbox feature of the ITS theme. It produces markdown that is less readable without the theme. This markdown was shared by Crit Hit The Giant on youtube in his video "Using Owlbear Rodeo To Run Daggerheart." They stated they got the code from somewhere else to use for Dnd spell slots. The template will ask for the Adversary name, the number of adversaries, HP, and Stress. The following is an example of the markdown in produces:
 > [!checks | no-i ] Wolf #1
 >   - 
 >     - *HP (6):*
