@@ -20,9 +20,11 @@ ITS Theme is an Obsidian theme that people use for roll playing games. It includ
 I have included two scripts that I developed to add a way to track HP and Stress of an Adversary.
  - promptHpStress.js 
  - promptHpStressITS.js
+
 I have included two simple templates that invoke these scripts.
  - HP Stress Template.md
  - HP Stress Template ITS.md
+
 ### HP Stress Template
 This template will prompt the user for an adversaries HP and Stress. Then it will build a markdown table to track 6 adversaries. The following is an example:
 
