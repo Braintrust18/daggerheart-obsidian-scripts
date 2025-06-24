@@ -36,6 +36,10 @@ This template will prompt the user for an adversaries HP and Stress. Then it wil
 | E   |               |         |         |        |
 | F   |               |         |         |        |
  ***h: hidden, r: restrained, v: vulnerable***
+
+This looks like the following in Obsidian:
+![HP Stress Template Example](Example 1.PNG)
+ 
 ### HP Stress Template ITS
 This template requires the advanced checkbox feature of the ITS theme. It produces markdown that is less readable without the theme. This markdown was shared by Crit Hit The Giant on youtube in his video "Using Owlbear Rodeo To Run Daggerheart." They stated they got the code from somewhere else to use for Dnd spell slots. The template will ask for the Adversary name, the number of adversaries, HP, and Stress. The following is what is an example of the markdown in produces:
 > [!checks | no-i ] Wolf #1
