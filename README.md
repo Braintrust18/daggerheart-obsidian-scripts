@@ -17,7 +17,7 @@ Templater is a Obsidian plugin that enables using JavaScript to modify markdown 
 [https://github.com/SilentVoid13/Templater](Templater)
 #### ITS Theme
 ITS Theme is an Obsidian theme that people use for roll playing games. It includes an enchancement to how checkboxes behave. Markdown by default handles checkboxes in a list format. ITS Theme will display those checkboxes horizontally. This is usefull for tracking spell slots in DnD or HP and Stress in Daggerheart.
-[https://github.com/SlRvb/Obsidian--ITS-Theme](ITS Theme)
+[https://github.com/SlRvb/Obsidian--ITS-Theme](ITS%20Theme)
 ## Adversaries HP and Stress
 I have included two scripts that I developed to add a way to track HP and Stress of an Adversary.
  - promptHpStress.js 
