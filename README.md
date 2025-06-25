@@ -3,6 +3,7 @@ Scripts to assist in session prep in Obsidian for Daggerheart table top roll pla
 
 ### Daggerheart
 Daggerheart is a table top roll playing game from Darrington Press.
+[Daggerheart](https://www.daggerheart.com)
 #### Daggerheart trademarks
 “Darrington Press™ and the Darrington Press authorized work logo are trademarks of Critical Role, LLC and used with permission.
 ![compatible_with_DH_logos-10](https://github.com/user-attachments/assets/63648995-a68d-4ebd-9132-adb8bcbdee41)
@@ -11,13 +12,13 @@ Daggerheart is a table top roll playing game from Darrington Press.
 This product includes materials from the Daggerheart System Reference Document 1.0, ©Critical Role, LLC. under the terms of the Darrington Press Community Gaming (DPCGL) License. More information can be found at https://www.daggerheart.com. There are no previous modifications by others.
 ### Obsidian
 Obsidian is a note taking application I use from my game preperation. It uses the markdown file format.
-[https://obsidian.md](obsidian)
+[obsidian](https://obsidian.md)
 #### Templater
 Templater is a Obsidian plugin that enables using JavaScript to modify markdown files.
-[https://github.com/SilentVoid13/Templater](Templater)
+[Templater](https://github.com/SilentVoid13/Templater)
 #### ITS Theme
 ITS Theme is an Obsidian theme that people use for roll playing games. It includes an enchancement to how checkboxes behave. Markdown by default handles checkboxes in a list format. ITS Theme will display those checkboxes horizontally. This is usefull for tracking spell slots in DnD or HP and Stress in Daggerheart.
-[https://github.com/SlRvb/Obsidian--ITS-Theme](ITS%20Theme)
+[ITS Theme](https://github.com/SlRvb/Obsidian--ITS-Theme)
 ## Adversaries HP and Stress
 I have included two scripts that I developed to add a way to track HP and Stress of an Adversary.
  - promptHpStress.js 
